@@ -1,0 +1,54 @@
+img{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 2px solid white;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #1f1f1f;
+}
+
+.folha{
+    width: 21cm;
+    height: 29.7cm;
+    background-color: #3b3b3b;
+}
+
+.contato{
+    width: 8cm;
+    height: 29.7cm;
+    background-color: black;
+    float: left;
+}
+
+.texto-contato{
+    color: #ddcf0b;
+    margin-left: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.info{
+    float: right;
+    height: 29.7cm;
+    width: 13cm;
+}
+
+.texto-info{
+    text-align: left; 
+    margin-left: 10px;
+    color: #f0efe4;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+li{
+    color: white;
+}
+
+.container{
+    margin-top: 15%;
+    margin-left: 5%;
+}
