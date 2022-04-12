@@ -12,14 +12,14 @@ body{
 }
 
 .folha{
-    width: 21cm;
-    height: 29.7cm;
+    width: 67%;
+    height: 800px;
     background-color: #3b3b3b;
 }
 
 .contato{
-    width: 8cm;
-    height: 29.7cm;
+    width: 35%;    
+    height: 100%;
     background-color: black;
     float: left;
 }
@@ -32,8 +32,8 @@ body{
 
 .info{
     float: right;
-    height: 29.7cm;
-    width: 13cm;
+    width: 65%;
+    height: 100%;
 }
 
 .texto-info{
